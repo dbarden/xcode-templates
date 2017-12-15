@@ -24,7 +24,7 @@
 			<key>Identifier</key>
 			<string>productName</string>
 			<key>Name</key>
-			<string>Class to test</string>
+			<string>Class to test:</string>
 			<key>NotPersisted</key>
 			<true/>
 			<key>Required</key>
